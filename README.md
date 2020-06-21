@@ -53,4 +53,5 @@ Here your software part is also done. Now you open up the Pulse App provided in 
 ## Video Link
 
 Here I have dropped the link to demo video of Pulse Watch and Vest
+
 https://www.youtube.com/watch?v=-R8P6DceUv8
