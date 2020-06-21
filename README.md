@@ -45,6 +45,7 @@ Here your software part is also done. Now you open up the Pulse App provided in 
  
 ## Gallery
 
+![Alt Text](https://github.com/bharat8/Pulse-Watch_and_Vest/blob/master/Gallery/IMG_3381.png)
 ## Video Link
 
 
