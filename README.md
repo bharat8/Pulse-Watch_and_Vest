@@ -46,6 +46,11 @@ Here your software part is also done. Now you open up the Pulse App provided in 
 ## Gallery
 
 ![Alt Text](https://github.com/bharat8/Pulse-Watch_and_Vest/blob/master/Gallery/IMG_3381.png)
+![Alt Text](https://github.com/bharat8/Pulse-Watch_and_Vest/blob/master/Gallery/IMG_3385.jpg)
+![Alt Text](https://github.com/bharat8/Pulse-Watch_and_Vest/blob/master/Gallery/IMG_3398.jpg)
+![Alt Text](https://github.com/bharat8/Pulse-Watch_and_Vest/blob/master/Gallery/IMG_3405.JPG)
+
 ## Video Link
 
-
+Here I have dropped the link to demo video of Pulse Watch and Vest
+https://www.youtube.com/watch?v=-R8P6DceUv8
